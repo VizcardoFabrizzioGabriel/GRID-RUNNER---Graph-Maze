@@ -7,16 +7,14 @@
   python grid_runner.py
 
 -Controles
-  Table
-  Tecla	Acción
-  ↑ ↓ ← →	Moverte por el laberinto
-  R	Reiniciar nivel
-  N / Espacio	Siguiente nivel (al ganar)
+  ↑ ↓ ← →	:  Moverte por el laberinto
+  R:	Reiniciar nivel
+  Espacio:	Siguiente nivel (al ganar)
 
 
 -El juego
-  Llegá desde la S (verde) hasta la E (magenta). Evitá las paredes grises, juntá monedas amarillas y cuidado con las trampas rojas.
-  Conceptos de grafos que usa
+  Llegá desde la S (verde) hasta la E (magenta). 
+  Evitá las paredes grises, junta monedas amarillas y cuidado con las trampas rojas.
 
 
 -Concepto
